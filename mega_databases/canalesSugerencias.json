@@ -1,0 +1,21 @@
+{
+  "810927079818395719": {
+    "type": "text",
+    "deleted": false,
+    "id": "816549974787227659",
+    "name": "sugerencias",
+    "rawPosition": 2,
+    "parentID": "810927079818395720",
+    "permissionOverwrites": [
+      "810927079818395719"
+    ],
+    "topic": null,
+    "lastMessageID": "830297195029725194",
+    "rateLimitPerUser": 0,
+    "lastPinTimestamp": null,
+    "guild": "810927079818395719",
+    "messages": [],
+    "nsfw": false,
+    "createdTimestamp": 1614751084754
+  }
+}
